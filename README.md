@@ -36,7 +36,7 @@
   <br>
   <br>
   <div>
-  <a href="https://sprinkle-flavor-a37.notion.site/f593a8bb0bf342748aa5894c1520e8a9"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://devnm.notion.site/f593a8bb0bf342748aa5894c1520e8a9"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
   </div>
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImNM&count_bg=%232AC1C9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
