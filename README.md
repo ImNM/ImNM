@@ -1,5 +1,5 @@
 <div align="center"><h3>🛠️ 안녕하세요 🙌<br>
-홍익대학교 컴퓨터 공학과 18학번 3학년 재학중인 백엔드 개발자 이찬진입니다.</h3></div>
+홍익대학교 컴퓨터 공학과 18학번 4학년 재학중인 백엔드 개발자 이찬진입니다.</h3></div>
 
 
 <br>
@@ -52,14 +52,20 @@
   <div align=left>
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~)</sub></li>
-  <li>경력 : 백엔드,쿠버네티스 서버 운영 ( <a href="https://apps.apple.com/kr/app/%ED%94%84%EB%A0%88%EC%9E%BC-prezem/id1596210269">프레잼</a> (새탭 열기 앱스토어 링크) 앱 백엔드 개발) <sub>(2021.08 ~ 2021.12)</sub></li>
-  <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> 기획,전체 팀장 <sub>(2022.01 ~ 2022.03)</sub></li>
-  <li>외주 : <a href="https://apps.apple.com/kr/app/%ED%94%84%EB%A0%88%EC%9E%BC-prezem/id1596210269">프레잼</a> 관리자 페이지 (React) 개발 <sub>(2022.02 ~ 2022.04)</sub></li>
-  <li><a href="https://github.com/depromeet">디프만 11기</a> : 실시간 장소 채팅 어플 (최우수상) <a href="https://apps.apple.com/kr/app/%ED%8B%B0%ED%82%A4%ED%83%80%EC%B9%B4-tikitaka/id1617831823">티키타카</a>(새탭 열기 앱스토어 링크) 백엔드 개발 <sub>(2022.03 ~)</sub></li>
-  
-  <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> 기획,전체 팀장 <sub>(2022.07 ~ 2022.08)</sub></li>
+  <li>경력 : 백엔드,쿠버네티스 서버 운영 ( <a href="https://apps.apple.com/kr/app/%ED%94%84%EB%A0%88%EC%9E%BC-prezem/id1596210269">프레잼</a> ) <sub>(2021.08 ~ 2021.12)</sub></li>
+  <li><a href="https://github.com/depromeet">디프만 11기</a> <sub>(2022.03 ~ 07 )</sub></li>
+  <li><a href="https://github.com/depromeet">디프만 12기</a> <sub>(2022.09 ~ 12 )</sub></li>
+  <li><a href="https://github.com/depromeet">디프만 13기 운영진</a> <sub>(2023.01 ~ )</sub></li>
   <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> Backend Core member <sub>(2022.09 ~ )</sub></li>
-<li><a href="https://github.com/depromeet">디프만 12기</a> <sub>(2022.09 ~ )</sub></li>
+<br/>
+<li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> 기획,전체 팀장 <sub>(2022.01 ~ 2022.03)</sub></li>
+<li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> 기획,전체 팀장 <sub>(2022.07 ~ 2022.08)</sub></li>
+<li>외주 : <a href="https://apps.apple.com/kr/app/%ED%94%84%EB%A0%88%EC%9E%BC-prezem/id1596210269">프레잼</a> 관리자 페이지 (React) 개발 <sub>(2022.02 ~ 2022.04)</sub></li>
+<li><a href="https://github.com/depromeet">디프만 11기</a> : 실시간 장소 채팅 어플 (최우수상) <a href="https://apps.apple.com/kr/app/%ED%8B%B0%ED%82%A4%ED%83%80%EC%B9%B4-tikitaka/id1617831823">티키타카</a> 백엔드 개발 <sub>(2022.03 ~)</sub></li>
+<li><a href="https://github.com/depromeet">디프만 12기</a> : 푸시알림 커스텀 어플 <a href="https://play.google.com/store/apps/details?id=com.depromeet.knockknock">낙낙</a> 백엔드 개발 <sub>(2022.03 ~)</sub></li>
+  <li><a href="https://github.com/Gosrock/DuDoong-Backend"> 두둥 </a> - 모두를 위한 공연 라이프 • 기획, BE <sub>(2023.01 ~ )</sub></li>
+
+
 
 
 
